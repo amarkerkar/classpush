@@ -1,0 +1,57 @@
+html,body
+{
+    height:100%;
+    width:100%;
+}
+#intro
+{
+    font-size: 50px;
+    text-align: center;
+    background:url("../pic/Photo0265.jpg") no-repeat;
+    height:100%;
+    width:100%;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+}
+.text-center
+{
+   
+    text-align: center;
+    vertical-align:middle;
+
+}
+.image p
+{
+position:absolute;
+bottom:200px;
+color:Black;
+font-size:75px;
+}
+.pad-center
+{
+    padding-top:50px;
+}
+#friends
+{
+    background:url("../pic/DSCN4214.JPG") no-repeat;
+    height:110%;
+    width:100%;
+    background-position:center;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+}
+#contact
+{
+    background:url("../pic/DSC_0101.JPG") no-repeat;
+    height:100%;
+    width:100%;
+-webkit-background-size:cover;
+-moz-background-size:cover;
+-o-background-size:cover;
+}
+.image c
+{
+    color:white;
+}
